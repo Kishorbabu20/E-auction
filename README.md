@@ -103,7 +103,3 @@ This system uses **Entity Framework Core** for database management and cryptogra
 
 4. **Authentication**:  
    Add **JWT-based authentication** for secure login sessions.
-
----
-
-Let me know if you need further details or assistance!
